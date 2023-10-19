@@ -1,7 +1,8 @@
 # 正誤表
 | 箇所  | 内容  | 修正  | 備考  |
 | :-: | --- | --- | --- |
-| p. 124, eq. (3.21) |  1章と同様のミス．1章errata参照  |   |   |
+| p. 121, para. 1 | The convex problem in (3.17) | The convex problem in (3.18) | |
+| p. 124, para. 2 | low-rank coefficients $a$ | sparse coefficients $a$ |   |
 | p. 125, para. 3 | method to minimize the matrix volume | method to maximize the matrix volume |   |   |
 
 # グレーゾーンな内容
